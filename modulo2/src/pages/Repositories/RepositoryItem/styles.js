@@ -1,10 +1,10 @@
 import { StyleSheet } from 'react-native';
 import { colors, metrics } from '../../../styles';
 
-
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: colors.white0,
+    elevation: 5,
+    backgroundColor: colors.white,
     borderRadius: metrics.basePadding,
     padding: metrics.basePadding,
     marginHorizontal: metrics.baseMargin * 2,
