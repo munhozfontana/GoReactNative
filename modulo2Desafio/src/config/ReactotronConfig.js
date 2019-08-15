@@ -1,4 +1,5 @@
-// eslint-disable-next-line import/no-extraneous-dependencies
+/* eslint-disable import/no-extraneous-dependencies */
+/* eslint-disable no-undef */
 import Reactotron from 'reactotron-react-native';
 
 if (__DEV__) {
