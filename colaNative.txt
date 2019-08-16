@@ -1,0 +1,10 @@
+
+react-native init MyAwesomeProject --template typescript
+
+yarn add axios react react-native react-native-gesture-handler react-navigation react-redux reactotron-redux-saga redux redux-saga styled-components
+
+yarn add eslint-config-airbnb eslint-import-resolver-typescript eslint-config-react-app eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react  eslint-config-prettier eslint-plugin-prettier prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser reactotron-react-native reactotron-redux @types/react-redux @types/jest @types/react @types/react-native @types/react-test-renderer -D 
+
+
+ 
+
